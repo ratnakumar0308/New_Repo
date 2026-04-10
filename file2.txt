@@ -1,2 +1,4 @@
 This is second file
 new recorda has been added
+
+changes made in folder to be mereger and file deleted
